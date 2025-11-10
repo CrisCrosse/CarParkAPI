@@ -1,0 +1,14 @@
+1. Get vehicle endpoint to deserialise and accept json into CreateVehicleRequest
+2. Make CreateVehicleRequest use a friendlier name
+3. Have an endpoint that doesn't require creating a vehicle first?
+2. Set up docker compose to run app and database
+3. Add flyway
+4. Create vehicle table migration
+5. Implement auto generated vehicle id
+
+
+5. Add parking service layer
+6. Add repository layer
+7. Add park and leave endpoints
+
+
