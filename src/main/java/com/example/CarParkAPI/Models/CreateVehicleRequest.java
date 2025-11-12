@@ -1,5 +1,6 @@
 package com.example.CarParkAPI.Models;
 
+// TODO: add validation to these parameters
 public record CreateVehicleRequest(
         String registration_plate,
         VehicleType vehicleType,
